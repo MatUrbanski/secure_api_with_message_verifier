@@ -1,0 +1,3 @@
+== Secure API with ActiveSupport::MessageVerifier
+
+This application shows how to secure Your API with ActiveSupport::MessageVerifier. I hope You find it useful!
